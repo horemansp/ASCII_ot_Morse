@@ -1,2 +1,4 @@
 # ASCII_ot_Morse
-Converts an ASCII character to corresponding Morse string with dots and stripes. ( eg ..-.)
+Library that converts an ASCII character to corresponding Morse string with dots and stripes. ( eg ..-.)
+
+Single method: convertCharToMorse(THE_CHAR) retuns the mose code
