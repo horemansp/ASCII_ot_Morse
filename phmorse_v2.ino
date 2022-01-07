@@ -13,6 +13,7 @@ void loop() {
   morseLength = strlen(theMorseCode);
   for(int x=0;x<morseLength;x++){
     Serial.println(theMorseCode[x]);
+    //place code that for example blinks a led short when . and long when -
     }
   while(1);
 }
